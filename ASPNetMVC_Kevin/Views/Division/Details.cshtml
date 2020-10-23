@@ -1,0 +1,32 @@
+﻿@model ASPNetMVC_Kevin.Models.Division
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Division</h4>
+    <hr />
+    <dl class="dl-horizontal">
+         <dt>
+            @Html.DisplayName("Division")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt>
+            @Html.DisplayName("Department Name")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DepartmentIDNav.Name)
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

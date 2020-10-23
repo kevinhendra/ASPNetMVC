@@ -77,9 +77,9 @@ E:\Metrodata\Github\ASPNetMVC_Kevin\ASPNetMVC_Kevin\bin\Newtonsoft.Json.xml
 E:\Metrodata\Github\ASPNetMVC_Kevin\ASPNetMVC_Kevin\bin\Antlr3.Runtime.pdb
 E:\Metrodata\Github\ASPNetMVC_Kevin\ASPNetMVC_Kevin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 E:\Metrodata\Github\ASPNetMVC_Kevin\ASPNetMVC_Kevin\obj\Debug\ASPNetMVC_Kevin.csprojAssemblyReference.cache
-E:\Metrodata\Github\ASPNetMVC_Kevin\ASPNetMVC_Kevin\obj\Debug\ASPNetMVC_Kevin.Migrations.addModelDepartmment.resources
-E:\Metrodata\Github\ASPNetMVC_Kevin\ASPNetMVC_Kevin\obj\Debug\ASPNetMVC_Kevin.csproj.GenerateResource.cache
 E:\Metrodata\Github\ASPNetMVC_Kevin\ASPNetMVC_Kevin\obj\Debug\ASPNetMVC_Kevin.csproj.CoreCompileInputs.cache
 E:\Metrodata\Github\ASPNetMVC_Kevin\ASPNetMVC_Kevin\obj\Debug\ASPNetMVC_Kevin.csproj.CopyComplete
 E:\Metrodata\Github\ASPNetMVC_Kevin\ASPNetMVC_Kevin\obj\Debug\ASPNetMVC_Kevin.dll
 E:\Metrodata\Github\ASPNetMVC_Kevin\ASPNetMVC_Kevin\obj\Debug\ASPNetMVC_Kevin.pdb
+E:\Metrodata\Github\ASPNetMVC_Kevin\ASPNetMVC_Kevin\obj\Debug\ASPNetMVC_Kevin.Migrations.addNewModels.resources
+E:\Metrodata\Github\ASPNetMVC_Kevin\ASPNetMVC_Kevin\obj\Debug\ASPNetMVC_Kevin.csproj.GenerateResource.cache

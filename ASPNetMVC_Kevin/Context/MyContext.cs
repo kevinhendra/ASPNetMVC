@@ -11,6 +11,7 @@ namespace ASPNetMVC_Kevin.Context
     {
         public MyContext() : base("ASPNetMVC_Kevin") { }
         public DbSet<Department> Departments { get; set; }
+        public DbSet<Division> Divisions { get; set; }
 
     }
 }

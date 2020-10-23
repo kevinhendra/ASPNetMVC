@@ -129,16 +129,18 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Context\MyContext.cs" />
     <Compile Include="Controllers\DepartmentsController.cs" />
+    <Compile Include="Controllers\DivisionController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202010220753118_addModelDepartmment.cs" />
-    <Compile Include="Migrations\202010220753118_addModelDepartmment.designer.cs">
-      <DependentUpon>202010220753118_addModelDepartmment.cs</DependentUpon>
+    <Compile Include="Migrations\202010230622578_addNewModels.cs" />
+    <Compile Include="Migrations\202010230622578_addNewModels.designer.cs">
+      <DependentUpon>202010230622578_addNewModels.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Department.cs" />
+    <Compile Include="Models\Division.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -182,6 +184,11 @@
     <Content Include="Views\Departments\Create.cshtml" />
     <Content Include="Views\Departments\Delete.cshtml" />
     <Content Include="Views\Departments\Edit.cshtml" />
+    <Content Include="Views\Division\Index.cshtml" />
+    <Content Include="Views\Division\Create.cshtml" />
+    <Content Include="Views\Division\Details.cshtml" />
+    <Content Include="Views\Division\Delete.cshtml" />
+    <Content Include="Views\Division\Edit.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -200,8 +207,8 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202010220753118_addModelDepartmment.resx">
-      <DependentUpon>202010220753118_addModelDepartmment.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202010230622578_addNewModels.resx">
+      <DependentUpon>202010230622578_addNewModels.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
